@@ -14,6 +14,7 @@ import org.junit.Test
 import org.junit.runner.RunWith
 import pe.com.interactivesystems.umamianalytics.domain.model.Website
 import pe.com.interactivesystems.umamianalytics.navigation.Screen
+import pe.com.interactivesystems.umamianalytics.ui.screens.websites.WebsitePicker
 
 @RunWith(AndroidJUnit4::class)
 class WebsitePickerKtTest {

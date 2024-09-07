@@ -1,4 +1,4 @@
-package pe.com.interactivesystems.umamianalytics.ui.screens
+package pe.com.interactivesystems.umamianalytics.ui.screens.websites
 
 import android.util.Log
 import androidx.compose.foundation.clickable

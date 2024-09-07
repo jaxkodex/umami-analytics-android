@@ -5,7 +5,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import pe.com.interactivesystems.umamianalytics.domain.repository.WebsitePickerViewModel
-import pe.com.interactivesystems.umamianalytics.ui.screens.WebsitePicker
+import pe.com.interactivesystems.umamianalytics.ui.screens.websites.WebsitePicker
 
 sealed class Screen(val route: String) {
     data object Websites : Screen("websites")
